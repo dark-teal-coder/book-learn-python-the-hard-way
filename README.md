@@ -1,11 +1,15 @@
 # Description 
-This repository contains the code for the instructor-led course *"Java Programming (Elementary)"* (translated course title) offered at [Hong Kong Federation of Trade Unions Spare Time Study Centre (HKFTUSTSC)](https://www.hkftustsc.org/info/index2.html) during the period from Sep, 2017 to Dec, 2017. The course might not be available in your region and at the time you see this. 
+This repository contains the code exercises written by Zed Shaw in his book *"Learn Python The Hard Way"*. Zed asks the reader to manually type the exact lines of code as he wrote in each Exercise (unit of the book), save them as a single `.py` file, use PowerShell to run the file and examine the output. There is also a Study Drills exercise at the end of each unit. For those where these exercises are missing, a `print()` statement with a message to inform the user of this repository has been added in the script file. PowerShell screen outputs were saved in `.txt` file format under the directory/folder "ps-outputs" for reference. 
 
-The code is shared here for educational purposes. The code was given out directly by the instructor without modification. Please check out another repository for the modified version and added notes inside. 
+There are 52 exercises/units in this book but the current repository does not have 52 corresponding `.py` files. It will be added later. 
 
 # Book Information
-- <ins>Course Code</ins>: KW08427
-- <ins>Course Title</ins>: Java Programming (Elementary)
-- <ins>Duration</ins>: 3 months; 12 weeks 
-- <ins>Period</ins>: Sep, 2017 to Dec, 2017
-- <ins>Medium of Instruction</ins>: Cantonese (a spoken Chinese language used in Hong Kong) 
+- <ins>Book Title</ins>: Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
+- <ins>Author</ins>: Zed Shaw
+- <ins>Edition</ins>: 3rd 
+- <ins>Publisher</ins>: Addison-Wesley
+- <ins>Publication Year</ins>: 2013
+
+<br />
+
+*Last modified date: Feb 25, 2022*
