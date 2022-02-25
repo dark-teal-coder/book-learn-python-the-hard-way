@@ -1,0 +1,7 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex29.py
+Too many cats! The world is doomed!
+The world is dry!
+People are greater than or equal to dogs.
+People are less than or equal to dogs.
+People are dogs.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

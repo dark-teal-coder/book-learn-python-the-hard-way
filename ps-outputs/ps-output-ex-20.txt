@@ -1,0 +1,14 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex20.py .\supplementals\sup-ex20-file-as-arg.txt
+First let's print the whole file:
+
+This is line 1
+This is line 2
+This is line 3
+Now let's rewind, kind of like a tape.
+Let's print three lines:
+1 This is line 1
+
+2 This is line 2
+
+3 This is line 3
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

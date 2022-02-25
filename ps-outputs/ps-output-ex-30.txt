@@ -1,0 +1,5 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex30.py
+We should take the cars.
+Maybe we couuld take the trucks.
+Alright, let's just take the trucks.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

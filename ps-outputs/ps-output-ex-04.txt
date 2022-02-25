@@ -1,0 +1,8 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex04.py
+There are 100 cars available.
+There are only 30 drivers available
+There will be 70 empty cars today.
+We can transport 120.0 people today.
+We have 90 to carpool today.
+We need to put about 3.0 in each car.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

@@ -1,0 +1,11 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex15.py .\supplementals\sup-ex15-file-as-arg.txt 
+Here's your file .\sup-ex15-file-as-arg.txt:
+That is stuff I typed into a file.
+It is really cool stuff.
+Lots and lots of fun to have in here.
+Type the filename again:
+> sup-ex15-file-as-arg.txt
+That is stuff I typed into a file.
+It is really cool stuff.
+Lots and lots of fun to have in here.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

@@ -1,0 +1,14 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex16.py .\supplementals\sup-ex16-file-as-arg.txt 
+We're going to erase .\sup-ex16-file-as-arg.txt.
+If you don't want that, hit CTRL-C (^C).
+If you do want that, hit RETURN.
+?
+Opening the file...
+Truncating the file. Goodbye!
+Now I'm going to ask you for three lines.
+line 1: Mary had a little lamb
+line 2: Its fleece was white as snow
+line 3: It was also tasty
+I'm going to write these to the file.
+And finally, we close it.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

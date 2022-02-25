@@ -1,0 +1,7 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex08.py
+1 2 3 4
+one two three four
+True False False True
+{} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {}
+Try your Own text here Maybe a poem Or a song about fear
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

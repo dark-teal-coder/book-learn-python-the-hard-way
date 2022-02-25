@@ -1,0 +1,3 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex37.py
+There is no code in Ex.37.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

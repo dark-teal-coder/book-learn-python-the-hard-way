@@ -1,0 +1,22 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex28.py
+True
+False
+False
+True
+True
+True
+False
+True
+False
+False
+True
+False
+True
+False
+False
+False
+True
+True
+False
+False
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

@@ -1,0 +1,6 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex12.py
+How old are you? 38
+How tall are you? 6'2"
+How much do you weigh? 1801lbs
+So, you're 38 old, 6'2" tall and 1801lbs heavy.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

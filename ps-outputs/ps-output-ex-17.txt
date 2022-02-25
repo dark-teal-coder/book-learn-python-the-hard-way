@@ -1,0 +1,13 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> # first make a sample file
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> echo "This is a test file." > .\supplementals\sup-ex17-file-as-arg.txt
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> type .\supplementals\sup-ex17-file-as-arg.txt
+This is a test file.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> # now run our script on it
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex17.py .\supplementals\sup-ex17-file-as-arg.txt .\supplementals\sup-ex17-output-file.txt
+Copying from .\supplementals\sup-ex17-file-as-arg.txt to .\supplementals\sup-ex17-output-file.txt
+The input file is 21 bytes long
+Does the output file exist? False
+Ready, hit RETURN to continue, CTRL-C to abort.
+
+Alright, all done.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>

@@ -1,0 +1,4 @@
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex02.py
+I could have code like this.
+This will run.
+(base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way>
