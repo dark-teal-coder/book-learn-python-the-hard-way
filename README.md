@@ -3,8 +3,7 @@ This repository contains the code exercises written by Zed Shaw in his book *"Le
 
 There are 52 exercises/units in this book but the current repository does not have 52 corresponding `.py` files. It will be added later. 
 
-*Remarks: 
-- not sure where writefile.py comes from*
+*Remarks: not sure where writefile.py comes from*
 
 # Book Information
 - <ins>Book Title</ins>: Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
