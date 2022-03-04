@@ -6,7 +6,7 @@ There are 52 exercises/units in this book but the current repository does not ha
 *Remarks: not sure where `writefile.py` comes from*
 
 # Book Information
-- <u>Book Title</u>: Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
+- <ins>Book Title</ins>: Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code
 - <ins>Author</ins>: Zed Shaw
 - <ins>Edition</ins>: 3rd 
 - <ins>Publisher</ins>: Addison-Wesley
