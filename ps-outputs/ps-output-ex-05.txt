@@ -1,5 +1,5 @@
 (base) PS C:\Users\Asus\Coding\book-learn-python-the-hard-way> python .\ex05.py
-Let's talk about Preesa Wong.
+Let's talk about Roxy Wong.
 He's 74 inches tall.
 He's 180 pounds heavy.
 Actually that's not too heavy.
