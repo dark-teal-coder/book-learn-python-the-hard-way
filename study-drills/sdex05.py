@@ -8,7 +8,7 @@
 import datetime
 now = datetime.datetime.now()
 
-myName = 'Preesa Wong'
+myName = 'Roxy Wong'
 myAge = 35 # not a lie
 myHeight = 74 # inches
 myWeight = 180 # lbs
@@ -19,7 +19,7 @@ myHair = 'Brown'
 # {} to embed variables inside a string at where {} is. 
 # f before double-quote tells Python 3 that the string needs to be formatted.
 # Put the value my_name refers to in {} in the string. 
-# Output: "Let's talk about Preesa Wong."
+# Output: "Let's talk about Roxy Wong."
 print(f"Let's talk about {myName}.")
 print(f"He's {myHeight} inches tall.")
 print(f"He's {myWeight} pounds heavy.")
