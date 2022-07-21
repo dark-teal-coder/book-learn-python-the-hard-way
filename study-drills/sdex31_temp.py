@@ -68,7 +68,7 @@ def start():
     print("Type START to start a new game or QUIT to quit.")
     startQuit = input(">>> ").upper()
     if startQuit == "START":
-        print("Welcome, you're now in the game! My name is Preesa Saewong.\
+        print("Welcome, you're now in the game! My name is Roxanne Saewong.\
         I'm your life coach in this game. I'll be with you through your life journey here.\
         \
         First thing first, let me ask you some questions about you!".replace("        ", "\n"))
