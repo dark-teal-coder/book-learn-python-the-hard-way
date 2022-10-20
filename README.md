@@ -13,7 +13,3 @@ There are 52 exercises/units in this book but the current repository does not ha
 - <ins>Edition</ins>: 3rd 
 - <ins>Publisher</ins>: Addison-Wesley
 - <ins>Publication Year</ins>: 2013
-
-<br />
-
-*Last modified date: Mar 16, 2022*
